@@ -14,3 +14,6 @@ Three reminders to myself that keep me in a growth mindset:
     - Dont get tunnel vision when faced with a challenge, go for a quick walk and come back with a fresh mind.  
  3. Accept Criticism 
     - Allow myself time to review and critique my work as well as share with others and be open to their input. 
+
+## Additional Pages 
+[Something about Markdown](https://linktosomethingaboutmarkdown)
