@@ -1,4 +1,4 @@
-# Welcome to Dustin's Homepage! 
+# About Me 
 
 I am an ambitious person trying to learn as much as I can about coding to prepare myself for a career in the field. Please feel free to take a look at [my projects](https://github.com/DustinHall?tab=projects).
 ## Growth Mindset 
