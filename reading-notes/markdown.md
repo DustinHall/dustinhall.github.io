@@ -1,6 +1,6 @@
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 
-## Quick Markdown Summary
+## Markdown Basics
 Markdown is a very simple, and easy to learn, language used on GitHub. It allows the user to use simple text, with some characters mixed in, to style their webpage. Markdown files will end in .md or .markdown
 
 ### Features
