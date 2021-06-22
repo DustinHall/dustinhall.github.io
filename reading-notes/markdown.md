@@ -26,6 +26,7 @@ You can also create task lists with [] adding an x inbetween for completed tasks
 - [x]  This task would be complete 
 
 Tables are another fun item that can be created with markdown. This can be done using hyphens "-" under the headers and pipes "|" to separate the comlumns.  
+
 Header 1 | Header 2
 -------- | --------
 This goes under header 1 | This goes under header 2
