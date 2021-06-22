@@ -21,6 +21,6 @@ Some other things that can be done using markdown include creating lists using *
 
 You can also create task lists with [] adding an x inbetween for completed tasks.
 
-- [ ] Finish this section of the webpage
-- [ ] Move onto next section of class
-- [x] This task would be complete 
+- [ ]  Finish this section of the webpage
+- [ ]  Move onto next section of class
+- [x]  This task would be complete 
