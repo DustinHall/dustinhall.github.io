@@ -1,7 +1,7 @@
 
 ## About Me 
 
-I am an ambitious person trying to learn as much as I can about coding to prepare myself for a career in the field. Please feel free to take a look at [my projects](https://github.com/DustinHall?tab=projects).
+I am an ambitious person trying to learn as much as I can about coding to prepare myself for a career in the field. I have spent the last 15 years or so working in aviation starting out as an Aviation Electrician on an anti drug detachment in the Navy and currently work as the Master Technical Training Instructor for avionics training at a private aircraft manufacturer here in Georgia. Please feel free to take a look at [my projects](https://github.com/DustinHall?tab=projects).
 ## Growth Mindset 
 
 To me having a growth mindset is about keeping an open mind when faced with unanticipated difficulties. It's understanding that anything worth doing takes work and nothing goes as planned, while learning and ultimately trying to better, and get better from, every situation that comes up. A famous Henry Ford quote comes to mind:
