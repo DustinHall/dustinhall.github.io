@@ -39,3 +39,6 @@ Please review the source of my information [here](https://guides.github.com/feat
 Quotes can be added with `>` before the quote. One of my favorite quotes from Lincoln:
 > Better to remain silent and be thought a fool than to speak and remove all doubt.
 
+## Closing
+
+These are just some of the basics using markdown. Please review the source links listed above and you will find many more options while using markdown. 🙂
