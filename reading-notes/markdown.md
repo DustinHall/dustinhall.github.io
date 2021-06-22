@@ -36,3 +36,6 @@ Links can be added using `[words that will be linked](actual link)`.
 
 Please review the source of my information [here](https://guides.github.com/features/mastering-markdown/). Another good [source](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for learning.
 
+Quotes can be added with `>` before the quote. One of my favorite quotes from Lincoln:
+> Better to remain silent and be thought a fool than to speak and remove all doubt.
+
