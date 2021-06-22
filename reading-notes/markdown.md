@@ -41,4 +41,4 @@ Quotes can be added with `>` before the quote. One of my favorite quotes from Li
 
 ## Closing
 
-These are just some of the basics using markdown. Please review the source links listed above and you will find many more options while using markdown. 🙂
+These are just some of the basics using markdown. Please review the source links listed above and you will find many more options. 🙂
