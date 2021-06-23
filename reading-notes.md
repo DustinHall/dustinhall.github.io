@@ -16,4 +16,5 @@ Three reminders to myself that keep me in a growth mindset:
     - Allow myself time to review and critique my work as well as share with others and be open to their input. 
 
 ## Additional Pages 
-[Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
+* [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
+* [Text Editors](https://dustinhall.github.io/reading-notes/text-editor)
