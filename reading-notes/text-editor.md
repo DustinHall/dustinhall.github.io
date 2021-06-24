@@ -44,6 +44,8 @@ pwd - print working directory | Tells you what your current or present working d
 ls - list | Tells you what is in your current location
 /etc | Tells ls not to list the current directory but rather to list the directories contents
 cd - change directory | Allows you to move around in the system 
+file | Gives you information about the file type
+ls -a | Gives all of the directory contents including hidden files
 
 When using commands we are reffering to a path for that file or directory. A **path** is a means to get to a particular file or directory. There are two types of paths, absolute and relative. An **absolute path** (always begins with a /) specifies a location in reference to the root directory (denoted by a single / "ls /" lists root) while a **relative path** (no /) will specify the location based on where you are in the system. There are also some shortcuts when dealing with paths. The **~ (tilde)** is a shortcut for your home directory. If my home directory is /home/dustin I could use /home/dustin/documents to refer to the directory documents or ~/documents. The **. (dot)** references your current directory so instead of using ls documents to see what is in the current location you can use ./documents. You can use **..(two dots)** to reference the parent directory so if I am in /home/dustin I can run ../../ to see a listing of the root directory.   
 
