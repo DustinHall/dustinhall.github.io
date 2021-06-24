@@ -36,13 +36,15 @@ IDE's are more of an all in one software package. They will allow you to write t
 
 A terminal is a text based interface to your system which can also be referrenced as command lines. You enter commands into your terminal using your keyboard and the terminal gives you feeedback in the form of text in the terminal.  
 
-Terminals use what are called shells to define how the terminal will act and look after executing your commands. The most common shell is called bash (bourne again shell). You can verify which shell you are using by entering the command echo. Lets take a look at some basic commands.
+Terminals use what are called **shells** to define how the terminal will act and look after executing your commands. The most common shell is called bash (bourne again shell). You can verify which shell you are using by entering the command echo. Lets take a look at some basic commands.
 
 Command | Action
 ------- | -------
 pwd - print working directory | Tells you what your current or present working directory is
 ls - list | Tells you what is in your current location
 /etc | Tells ls not to list the current directory but rather to list the directories contents
+cd - change directory | Allows you to move around in the system 
 
-When using commands we are reffering to a path for that file or directory. A path is a means to get to a particular file or directory. There are two types of paths, absolute and relative. An absolute path (always begins with a /) specifies a location in reference to the root directory while a relative path (no /) will specify the location based on where you are in the system. There are also some shortcuts when dealing with paths. The ~ (tilde) is a shortcut for your home directory. If my home directory is /home/dustin I could use /home/dustin/documents to refer to the directory documents or ~/documents. The . references your current directory so instead of using ls documents to see what is in the current location you can use ./documents. You can use .. to reference the parent directory so if I am in /home/dustin I can run ../../ to see a listing of the root directory.   
+When using commands we are reffering to a path for that file or directory. A **path** is a means to get to a particular file or directory. There are two types of paths, absolute and relative. An **absolute path** (always begins with a /) specifies a location in reference to the root directory (denoted by a single / "ls /" lists root) while a **relative path** (no /) will specify the location based on where you are in the system. There are also some shortcuts when dealing with paths. The **~ (tilde)** is a shortcut for your home directory. If my home directory is /home/dustin I could use /home/dustin/documents to refer to the directory documents or ~/documents. The **.** references your current directory so instead of using ls documents to see what is in the current location you can use ./documents. You can use **..** to reference the parent directory so if I am in /home/dustin I can run ../../ to see a listing of the root directory.   
 
+**Tab Completion** - When you start typing a path on the command line there is a shortcut called tab completion. Tab completion will complete the path if you have started typing it in and hit tab. If you get nothing hit tab again and you will see a list of all possibilities.  
