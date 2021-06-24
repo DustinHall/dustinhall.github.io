@@ -31,3 +31,9 @@ Extensions | Adds more features to the text editor
 ### Integrated Development Environment
 
 IDE's are more of an all in one software package. They will allow you to write text while also being a file manager, a compiler, and a debugger. 
+
+### Terminals 
+
+A terminal is a text based interface to your system which can also be referrenced as command lines. You enter commands into your terminal using your keyboard and the terminal gives you feeedback in the form of text in the terminal.  
+
+Terminals use what are called shells to define how the terminal will act and look after executing your commands. The most common shell is called bash (bourne again shell). You can verify which shell you are using by entering the command echo. 
