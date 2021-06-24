@@ -28,4 +28,6 @@ Extensions | Adds more features to the text editor
 * Sublime Text 
   - While Sublime Text does have all of the features you want in a text editor and can handle any level of coding, it is a premium software that you have to pay for. However, they do have a free version you just wont get everything with it. 
 
+### Integrated Development Environment
 
+IDE's are more of an all in one software package. They will allow you to write text while also being a file manager, a compiler, and a debugger. 
