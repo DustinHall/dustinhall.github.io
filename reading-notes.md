@@ -17,4 +17,4 @@ Three reminders to myself that keep me in a growth mindset:
 
 ## Additional Pages 
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
-* [Text Editors](https://dustinhall.github.io/reading-notes/text-editor)
+* [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
