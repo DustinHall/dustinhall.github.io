@@ -50,3 +50,9 @@ ls -a | Gives all of the directory contents including hidden files
 When using commands we are reffering to a path for that file or directory. A **path** is a means to get to a particular file or directory. There are two types of paths, absolute and relative. An **absolute path** (always begins with a /) specifies a location in reference to the root directory (denoted by a single / "ls /" lists root) while a **relative path** (no /) will specify the location based on where you are in the system. There are also some shortcuts when dealing with paths. The **~ (tilde)** is a shortcut for your home directory. If my home directory is /home/dustin I could use /home/dustin/documents to refer to the directory documents or ~/documents. The **. (dot)** references your current directory so instead of using ls documents to see what is in the current location you can use ./documents. You can use **..(two dots)** to reference the parent directory so if I am in /home/dustin I can run ../../ to see a listing of the root directory.   
 
 **Tab Completion** - When you start typing a path on the command line there is a shortcut called tab completion. Tab completion will complete the path if you have started typing it in and hit tab. If you get nothing hit tab again and you will see a list of all possibilities.  
+
+### Additional Notes 
+
+* Quotes - Anything inside quotes is considered a single item
+* Escape Characters - Using a backslash \ is an escape character which nullifies the special meaning of the next character
+
