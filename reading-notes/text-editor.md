@@ -24,8 +24,8 @@ Extensions | Adds more features to the text editor
 * Atom
   - Developed by GitHub, Atom is a free editor compatible with windows, mac and linux. Like Visual Studio Code, Atom has many features including syntax highlighting, themes, extensions and code completion.   
 * Brackets 
-  - Words 
+  - From Adobe, Brackets is a free editor for windows, mac and linux. While you can add extensions, Brackets only supports HTML, CSS and JavaScript. It does come with plenty of features including all those listed above, as well as live preview which will update your website automatically as you change it.  
 * Sublime Text 
-  - Also words 
+  - While Sublime Text does have all of the features you want in a text editor and can handle any level of coding, it is a premium software that you have to pay for. However, they do have a free version you just wont get everything with it. 
 
 
