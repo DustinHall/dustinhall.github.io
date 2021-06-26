@@ -27,7 +27,12 @@ Git comes with Graphical User Interface (GUI) tools but there are also third par
 
 Configuration of Variables - **git config** allows the setting of configuration variables that control aspects of Git's operation and look. 
 
-Identity Setting - **Set Username** In the Terminal or Command line type: `git config --global user.name "Jane Smith"` and then `git config --global user.email "example@email.com"`. Check the settings by entering: `git config --global user.name` (should return Jane Smith) and `git config --global user.email` (should return example@email.com). Using the --global option sets that option for the whole system. For specific projects enter the desired Git repository instead.  
+Identity Setting - **Set Username** In the Terminal or Command line type: `git config --global user.name "Jane Smith"` and then `git config --global user.email "example@email.com"`. Check the settings by entering: `git config --global user.name` (should return Jane Smith) and `git config --global user.email` (should return example@email.com). Using the --global option sets that option for the whole system, for specific projects enter the desired Git repository instead.  
 
+Default Text Editor - Unless configured with a default text editor, Git will use the systems. If you wanted to set a different text editor, for example Emacs, you would type `$ git config --global core.editor emacs` into your command line.  
+
+Checking settings - Use `git config --list` to get a list of your current settings. 
+
+![Screen Shot 2021-06-26 at 10 53 51 AM](https://user-images.githubusercontent.com/84751034/123517003-ee6f0f80-d66c-11eb-9f71-f715f5e33b2d.png)
 
 
