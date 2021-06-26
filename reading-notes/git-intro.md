@@ -88,5 +88,5 @@ You can see information regarding changes after adding a new file by using the g
 
 ![Screen Shot 2021-06-26 at 4 11 46 PM](https://user-images.githubusercontent.com/84751034/123524573-4f144180-d699-11eb-952a-f506c7f84f34.png)
 
-**Committing Files** should be done after staging them using `$ git commit -m “made change x,y,z”` it is always a good idea to leave detailed messages about your changes. To commit all use `$ git commit -a`.
+**Committing Files** should be done after staging them using `$ git commit -m “made change x,y,z”` it is always a good idea to leave detailed messages about your changes. If you want to commit all files you would use `$ git commit -a`.
 
