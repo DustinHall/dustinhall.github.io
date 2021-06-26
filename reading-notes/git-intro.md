@@ -90,3 +90,23 @@ You can see information regarding changes after adding a new file by using the g
 
 **Committing Files** should be done after staging them using `$ git commit -m “made change x,y,z”` it is always a good idea to leave detailed messages about your changes. If you want to commit all files you would use `$ git commit -a`.
 
+#### Pushing Changes 
+
+Pushing changes to a remote repository is done using `$ git push origin master`, this pushes changes from the local master branch to remote repository named origin. For cloned repositories Git gives the name origin to the server that was cloned and master to the local repository. These can be changed if desired.
+
+#### Stashing Changes
+
+The command `git stash` will remove and hide changes and `git stash apply` will retrieve them when ready to continue working. 
+
+### Remote Repositories
+
+When working in teams you will need to use remote repositories which reside online or on a network. This allows teams to push and pull information. 
+
+#### Seeing Your Remotes
+
+The `git remote` command allows you to see the short names of all specified remote handles. 
+
+The `git remove -v` lets you view all remote URLs next to their short names. 
+
+![Screen Shot 2021-06-26 at 4 56 08 PM](https://user-images.githubusercontent.com/84751034/123525539-7b32c100-d69f-11eb-8edf-c6ed761f21fa.png)
+
