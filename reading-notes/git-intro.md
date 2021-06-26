@@ -55,4 +55,38 @@ You can import an existing project or directory into Git by following these step
 
 The files are now tracked and there is an initial commit. 
 
+#### Cloning
+
+The clone command `$ git clone https://github.com/test` is used to make a copy of an existing Git repository. When you clone a file you copy all versions of all files for the project. This creates a directory called test with an initialized .git directory inside it. The command will also check out a copy of the newest version of the project. To clone a repository into a directory with a name of your choosing use: `$ git clone https://github.com/test mydirectory`. This makes a copy of the target repository in a directory named "my directory".  
+
+### Workflow
+#### Local Repository Structure
+
+The local Git repository has three components. The **Working Directory** is where the actual files reside, the **Index** is the area used for staging and the **Head** points to the most recent commit.
+
+![Screen Shot 2021-06-26 at 3 48 47 PM](https://user-images.githubusercontent.com/84751034/123524118-1de64200-d696-11eb-9d02-bef312da53dd.png)
+
+#### Saving Changes 
+
+All files in a working copy of a project file are either in a tracked or untracked state. 
+
+**Tracked** files can be modified, unmodified or staged; they were part of the most recent file snapshot. **Untracked** files were not in the last snapshot and are not currently in the staging area. 
+
+After cloning a repository, files have a tracked status and are unmodified because they have been checked out but not edited. 
+
+![Screen Shot 2021-06-26 at 3 56 52 PM](https://user-images.githubusercontent.com/84751034/123524287-32770a00-d697-11eb-8c3c-ce8f55cee553.png)
+
+#### Checking File Status
+
+The `$ git status` command will show the state of files. This will tell you which branch you are on as well as tracked "working directory clean" or untracked.  
+
+#### Tracking and Staging a New File 
+
+You can track a single file with the command `git add filename` or all files with `$ git add *`. After using these the files are tracked and staged for committing.  
+
+You can see information regarding changes after adding a new file by using the git status command. 
+
+![Screen Shot 2021-06-26 at 4 11 46 PM](https://user-images.githubusercontent.com/84751034/123524573-4f144180-d699-11eb-952a-f506c7f84f34.png)
+
+**Committing Files** should be done after staging them using `$ git commit -m “made change x,y,z”` it is always a good idea to leave detailed messages about your changes. To commit all use `$ git commit -a`.
 
