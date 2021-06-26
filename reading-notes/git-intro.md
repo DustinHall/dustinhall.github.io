@@ -52,6 +52,7 @@ You can import an existing project or directory into Git by following these step
    - `$ git add *.c`
    - `$ git add LICENSE`
    - `$ git commit -m "any message here"`
+
 The files are now tracked and there is an initial commit. 
 
 
