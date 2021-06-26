@@ -35,4 +35,23 @@ Checking settings - Use `git config --list` to get a list of your current settin
 
 ![Screen Shot 2021-06-26 at 10 53 51 AM](https://user-images.githubusercontent.com/84751034/123517003-ee6f0f80-d66c-11eb-9f71-f715f5e33b2d.png)
 
+Getting Help - This can be done one of three ways.
+
+![Screen Shot 2021-06-26 at 11 05 14 AM](https://user-images.githubusercontent.com/84751034/123517346-71449a00-d66e-11eb-90b4-3d0312b0f9fc.png)
+
+### Setting up a Git Repository
+#### Importing 
+
+You can import an existing project or directory into Git by following these steps:
+
+1. Switch to the target project's directory. 
+   - `$ cd test (cd = change directory)`
+2. Use git init.
+   - `$ git init`
+3. Start tracking these repository files by forming an initial commit.
+   - `$ git add *.c`
+   - `$ git add LICENSE`
+   - `$ git commit -m "any message here"`
+The files are now tracked and there is an initial commit. 
+
 
