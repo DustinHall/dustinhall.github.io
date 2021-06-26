@@ -57,7 +57,7 @@ The files are now tracked and there is an initial commit.
 
 #### Cloning
 
-The clone command `$ git clone https://github.com/test` is used to make a copy of an existing Git repository. When you clone a file you copy all versions of all files for the project. This creates a directory called test with an initialized .git directory inside it. The command will also check out a copy of the newest version of the project. To clone a repository into a directory with a name of your choosing use: `$ git clone https://github.com/test mydirectory`. This makes a copy of the target repository in a directory named "my directory".  
+The clone command `$ git clone https://github.com/test` is used to make a copy of an existing Git repository by adding its URL. When you clone a file you copy all versions of all files for the project. This creates a directory called test with an initialized .git directory inside it. The command will also check out a copy of the newest version of the project. To clone a repository into a directory with a name of your choosing use: `$ git clone https://github.com/test mydirectory`. This makes a copy of the target repository in a directory named "my directory".  
 
 ### Workflow
 #### Local Repository Structure
