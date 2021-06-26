@@ -19,7 +19,7 @@ A DVCS that creates a snapshot of the files, and stores a reference to it, when 
 
 **Windows** - Through the [Git Website](http://git-scm.com/download/win) or [GitHub Site](http://windows.github.com/).
 
-**Linux** - Through the *Package Manager* with Fedora: '$ sudo yum install git', or with Ubuntu: '$ sudo apt-get install git'. Another option is the [Git Website](http://git-scm.com/download/linux).
+**Linux** - Through the *Package Manager* with Fedora: `$ sudo yum install git`, or with Ubuntu: `$ sudo apt-get install git`. Another option is the [Git Website](http://git-scm.com/download/linux).
 
 ### Setup
 
@@ -27,4 +27,7 @@ Git comes with Graphical User Interface (GUI) tools but there are also third par
 
 Configuration of Variables - **git config** allows the setting of configuration variables that control aspects of Git's operation and look. 
 
-Identity Setting - 
+Identity Setting - **Set Username** In the Terminal or Command line type: `git config --global user.name "Jane Smith"` and then `git config --global user.email "example@email.com"`. Check the settings by entering: `git config --global user.name` (should return Jane Smith) and `git config --global user.email` (should return example@email.com). Using the --global option sets that option for the whole system. For specific projects enter the desired Git repository instead.  
+
+
+
