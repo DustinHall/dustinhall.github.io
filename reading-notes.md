@@ -19,4 +19,4 @@ Three reminders to myself that keep me in a growth mindset:
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
-* [Wireframe](https://dustinhall.github.io/reading-notes/wireframe-html)
+* [Wireframe and HTML](https://dustinhall.github.io/reading-notes/wireframe-html)
