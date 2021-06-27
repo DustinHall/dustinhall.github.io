@@ -1,10 +1,8 @@
-Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
-
 ## Text Editors
 Text editors are critical software for web developers as they allow them to write text used to build websites. There are several different options to choose from including preloaded editors that come standard on your computer or third party editors which tend to have more features.
 
 ### Which Editor is Right For You?
-There are several different options for text editors, and while they all get the job done there are different features across them that you want to consider when making this decision. If you prefer plain text you might just be happy with what comes loaded on your computer, be it Notepad (windows) or Text Edit (mac), these are basic editors with little to no added features. If you want features you will have to look into third party options, we will talk more about those in a minute but lets look at some popular features first.
+There are several different options for text editors, and while they all get the job done there are different features across them that you want to consider when making this decision. If you prefer plain text you might just be happy with what comes loaded on your computer, be it Notepad (windows) or Text Edit (mac), these are basic editors with little to no added features. If you want features you will have to look into third party options, but lets look at some popular features first.
 
 Feature Name | Benefit
 ------------ | --------
@@ -16,7 +14,7 @@ Extensions | Adds more features to the text editor
 ### Third Party Editors
 
 * Notepad ++ 
-  - Notepad ++ is a free editor for windows only and is liked by many. Some of its features include syntax highlighting and code completion. There is also a good amount of support if learning such as an online community with a chat room for questions and even a wiki page. 
+  - Notepad ++ is a free editor for windows only, some of its features include syntax highlighting and code completion. There is also a good amount of support if learning such as an online community with a chat room for questions and even a wiki page. 
 * BB Edit
   - BB Edit is mac only and has both free and paid options. The free mode has standard feautures that include syntax highlighting and code completion while the paid version allows for live previews and Grep patterns in live search. 
 * Visual Studio Code
@@ -47,12 +45,16 @@ cd - change directory | Allows you to move around in the system
 file | Gives you information about the file type
 ls -a | Gives all of the directory contents including hidden files
 
-When using commands we are reffering to a path for that file or directory. A **path** is a means to get to a particular file or directory. There are two types of paths, absolute and relative. An **absolute path** (always begins with a /) specifies a location in reference to the root directory (denoted by a single / "ls /" lists root) while a **relative path** (no /) will specify the location based on where you are in the system. There are also some shortcuts when dealing with paths. The **~ (tilde)** is a shortcut for your home directory. If my home directory is /home/dustin I could use /home/dustin/documents to refer to the directory documents or ~/documents. The **. (dot)** references your current directory so instead of using ls documents to see what is in the current location you can use ./documents. You can use **..(two dots)** to reference the parent directory so if I am in /home/dustin I can run ../../ to see a listing of the root directory.   
+When using commands we are referring to a path for that file or directory. A **path** is a means to get to a particular file or directory. There are two types of paths, absolute and relative. An **absolute path** (always begins with a `/`) specifies a location in reference to the root directory (denoted by a single / `ls /` lists root) while a **relative path** (no /) will specify the location based on where you are in the system. There are also some shortcuts when dealing with paths. The **~ (tilde)** is a shortcut for your home directory. If my home directory is /home/dustin I could use `/home/dustin/documents` to refer to the directory documents or `~/documents`. The **. (dot)** references your current directory so instead of using `ls documents` to see what is in the current location you can use `./documents`. You can use **..(two dots)** to reference the parent directory so if I am in `/home/dustin` I can run `../../` to see a listing of the root directory.   
 
 **Tab Completion** - When you start typing a path on the command line there is a shortcut called tab completion. Tab completion will complete the path if you have started typing it in and hit tab. If you get nothing hit tab again and you will see a list of all possibilities.  
 
 ### Additional Notes 
 
 * Quotes - Anything inside quotes is considered a single item
-* Escape Characters - Using a backslash \ is an escape character which nullifies the special meaning of the next character
+* Escape Characters - Using a backslash `\` is an escape character which nullifies the special meaning of the next character
 
+## Additional Pages 
+Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
+* [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
+* [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
