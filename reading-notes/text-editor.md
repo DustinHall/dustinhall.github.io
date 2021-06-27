@@ -58,7 +58,7 @@ When using commands we are referring to a path for that file or directory. A **p
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
-* [Wireframe](https://dustinhall.github.io/wireframe-html)
+* [Wireframe](https://dustinhall.github.io/reading-notes/wireframe-html)
 
 <footer>
     <p> Page managed by Dustin Hall </p> 
