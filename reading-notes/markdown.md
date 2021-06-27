@@ -47,3 +47,8 @@ These are just some of the basics using markdown. Please review the source links
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
+* [Wireframe](https://dustinhall.github.io/wireframe-html)
+
+<footer>
+    <p> Page managed by Dustin Hall </p> 
+</footer>

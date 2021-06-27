@@ -114,3 +114,8 @@ The `git remove -v` lets you view all remote URLs next to their short names.
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
+* [Wireframe](https://dustinhall.github.io/wireframe-html)
+
+<footer>
+    <p> Page managed by Dustin Hall </p> 
+</footer>
