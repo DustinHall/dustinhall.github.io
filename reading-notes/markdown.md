@@ -48,6 +48,7 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
 * [Wireframe](https://dustinhall.github.io/reading-notes/wireframe-html)
+* [CSS](https://dustinhall.github.io/reading-notes/css)
 
 <footer>
     <p> Page managed by Dustin Hall </p> 
