@@ -38,7 +38,7 @@ If some properties of the same selector have been defined in different style she
 
  They can be used to style single elements.`<h1 style="color:blue;text-align:center;">This is a heading</h1>`
 
- ## Cascading Order
+## Cascading Order
 
  The follow will be followed with 1 being the highest priority
 
@@ -46,7 +46,7 @@ If some properties of the same selector have been defined in different style she
  2. External and internal style sheets (in the head section)
  3. Browser Default
 
- ### CSS Color and Property 
+### CSS Color and Property 
 
 Color can be set a few different ways. `color: red;` - `color: #00ff00;`(hex value) - `color: rgb(0,0,255);` - `color: rgba(201, 76, 76, 0.60);` - `color: hsl(89, 43%, 51%);` - `color: hsla(89, 43%, 51%, 0.6);`
 
