@@ -16,7 +16,9 @@ External Loading - scripts with an **async** attribute will execute as soon the 
 
 **Browser APIs** are built into you web browser and are able to expose data from the surrounding computer environment, or do useful complex things. For example:
 
-    * The DOM (Document Object Model) API allows you to manipulate HTML and CSS creating, removing and changing HTML, dynamically applying new styles to your page. Pop-Up windows are examples of the DOM in action.
+    * The DOM (Document Object Model) API allows you to manipulate HTML and CSS creating, removing 
+      and changing HTML, dynamically applying new styles to your page. Pop-Up windows are examples 
+      of the DOM in action.
     * Geolocation API retrieves geographical location.
     * The Canvas and WebGL APIs allow the creation of 2D and 3D graphics.
     * Audio/Vido APIs include HTMLMediaElement and WebRTC allow you to play audio and video. 
