@@ -1,17 +1,19 @@
-<script>
-    let randomNumber = Math.floor(Math.random() * 100) + 1;
+<!DOCTYPE html>
+<html>
+  <script>
+      let randomNumber = Math.floor(Math.random() * 100) + 1;
 
-    const guesses = document.querySelector('guesses');
-    const lastResult = document.querySelector('.lastResult');
-    const lowOrHi = document.querySelector('.lowOrHi');
+      const guesses = document.querySelector('guesses');
+      const lastResult = document.querySelector('.lastResult');
+      const lowOrHi = document.querySelector('.lowOrHi');
 
-    const guessSubmit = document.querySelector('.guessSubmit');
-    const guessField = document.querySelector('.guessField');
+      const guessSubmit = document.querySelector('.guessSubmit');
+      const guessField = document.querySelector('.guessField');
 
-    let guessCount = 1;
-    let resetButton;
+      let guessCount = 1;
+      let resetButton;
 
-    function checkGuess() {
+      function checkGuess() {
       let userGuess = Number(guessField.value);
       if (guessCount === 1) {
         guesses.textContent = 'Previous guesses: ';
@@ -24,33 +26,34 @@
       lastResult.textContent = 'Congratulations! You got it right!';
       lastResult.style.backgroundColor = 'green';
       lowOrHi.textContent = '';
-     setGameOver();
+      setGameOver();
       } else if (guessCount === 5) {
       lastResult.textContent = '!!!GAME OVER!!!';
-     setGameOver();
-     } else {
+      setGameOver();
+      } else {
       lastResult.textContent = 'Wrong!';
-     lastResult.style.backgroundColor = 'red';
+      lastResult.style.backgroundColor = 'red';
       if(userGuess < randomNumber) {
       lowOrHi.textContent = 'Last guess was too low!';
-     } else if(userGuess > randomNumber) {
+      } else if(userGuess > randomNumber) {
       lowOrHi.textContent = 'Last guess was too high!';
-     }
+      }
 
-     guessCount++;
-     guessField.value = '';
-     guessField.focus();
+      guessCount++;
+      guessField.value = '';
+      guessField.focus();
 
     }
     
-</script>
+  </script>
 
-<div class="resultParas">
-    <p class="guesses"></p>
-    <p class="lastResult"></p>
-    <p class="lowOrHi"></p>
-  </div>
+  <div class="resultParas">
+     <p class="guesses"></p>
+     <p class="lastResult"></p>
+     <p class="lowOrHi"></p>
+    </div>
 
-  <label for="guessField">Enter a guess: </label>
-  <input type="text" id="guessField" class="guessField">
-<input type="submit" value="Submit guess" class="guessSubmit">
+    <label for="guessField">Enter a guess: </label>
+    <input type="text" id="guessField" class="guessField">
+  <input type="submit" value="Submit guess" class="guessSubmit">
+</html>
