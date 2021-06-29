@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <body>
   <script>
       let randomNumber = Math.floor(Math.random() * 100) + 1;
 
@@ -42,7 +43,7 @@
       guessCount++;
       guessField.value = '';
       guessField.focus();
-
+      }
     }
     
   </script>
@@ -56,4 +57,5 @@
     <label for="guessField">Enter a guess: </label>
     <input type="text" id="guessField" class="guessField">
   <input type="submit" value="Submit guess" class="guessSubmit">
+</body>
 </html>
