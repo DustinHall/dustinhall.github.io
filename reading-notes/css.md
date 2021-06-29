@@ -52,7 +52,8 @@ Color can be set a few different ways. `color: red;` - `color: #00ff00;`(hex val
 
 `color: color|initial|inherit;` will set the color property to its default value `initial` and `inherits` this property from its parent element. 
 
-## Site Contents 
+## Site Contents
+Return [**_HOME_**](https://DustinHall.github.io/reading-notes) 
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)

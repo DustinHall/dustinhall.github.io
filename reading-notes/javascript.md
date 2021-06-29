@@ -23,7 +23,8 @@ External Loading - scripts with an **async** attribute will execute as soon the 
 
 
 
-## Site Contents 
+## Site Contents
+Return [**_HOME_**](https://DustinHall.github.io/reading-notes) 
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
