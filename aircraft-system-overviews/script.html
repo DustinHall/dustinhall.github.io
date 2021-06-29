@@ -21,8 +21,6 @@
       }
       guesses.textContent += userGuess + ' ';
 
-      guessSubmit.addEventListener('click', checkGuess);
-
       if (userGuess === randomNumber) {
       lastResult.textContent = 'Congratulations! You got it right!';
       lastResult.style.backgroundColor = 'green';
@@ -45,6 +43,7 @@
       guessField.focus();
       }
     }
+    guessSubmit.addEventListener('click', checkGuess);
     
   </script>
 
