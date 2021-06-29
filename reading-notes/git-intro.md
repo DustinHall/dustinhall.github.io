@@ -116,6 +116,7 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Wireframe](https://dustinhall.github.io/reading-notes/wireframe-html)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
+* [JavaScript](https://dustinhall.github.io/reading-notes/javascript) 
 
 <footer>
     <p> Page managed by Dustin Hall </p> 

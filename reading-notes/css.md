@@ -57,3 +57,4 @@ Color can be set a few different ways. `color: red;` - `color: #00ff00;`(hex val
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
 * [Wireframe and HTML](https://dustinhall.github.io/reading-notes/wireframe-html)
+* [JavaScript](https://dustinhall.github.io/reading-notes/javascript) 

@@ -93,7 +93,7 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
-
+* [JavaScript](https://dustinhall.github.io/reading-notes/javascript)
 
 <footer>
     <p> Page managed by Dustin Hall </p> 
