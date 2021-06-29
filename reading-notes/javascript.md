@@ -23,6 +23,8 @@ External Loading - scripts with an **async** attribute will execute as soon the 
     * The Canvas and WebGL APIs allow the creation of 2D and 3D graphics.
     * Audio/Vido APIs include HTMLMediaElement and WebRTC allow you to play audio and video. 
 
+You create a **variable** with the keyword *Let* followed by a name for your variable. **Constants** are used to store values that cant be changed. You can assign a value to your variable or constant with an equals sign (=) followed by the value you want to give it. 
+
 
 
 ## Site Contents
