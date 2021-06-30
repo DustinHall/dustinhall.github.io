@@ -6,6 +6,6 @@ button.onclick = function() {
     alert('Must have a name');  
   } else {
   alert('Hello ' + name + ', nice to see you!');
-}
+  }
 }
 
