@@ -77,7 +77,8 @@ An operator performs some operation on single, or multiple, operands (data value
 
 For a list of operators [js_operators](https://www.w3schools.com/js/js_operators.asp) or [another site](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
-## Site Contents 
+## Site Contents
+Return [**_HOME_**](https://DustinHall.github.io/reading-notes) 
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)

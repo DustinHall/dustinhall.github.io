@@ -22,4 +22,4 @@ Three reminders to myself that keep me in a growth mindset:
 * [Wireframe and HTML](https://dustinhall.github.io/reading-notes/wireframe-html)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
 * [JavaScript](https://dustinhall.github.io/reading-notes/javascript)
-* [Programming JS](https://dustinhall.github.io/reading-notes/preogramming-with-javascript) 
+* [Programming JS](https://dustinhall.github.io/reading-notes/programming-with-javascript) 

@@ -61,7 +61,7 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Wireframe](https://dustinhall.github.io/reading-notes/wireframe-html)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
 * [JavaScript](https://dustinhall.github.io/reading-notes/javascript)
-* [Programming JS](https://dustinhall.github.io/reading-notes/preogramming-with-javascript)
+* [Programming JS](https://dustinhall.github.io/reading-notes/programming-with-javascript)
 
 <footer>
     <p> Page managed by Dustin Hall </p> 
