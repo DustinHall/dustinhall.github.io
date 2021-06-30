@@ -13,7 +13,7 @@ Three reminders to myself that keep me in a growth mindset:
  2. Stay Focused
     - Dont get tunnel vision when faced with a challenge, go for a quick walk and come back with a fresh mind.  
  3. Accept Criticism 
-    - Allow myself time to review and critique my work as well as share with others and be open to their input. 
+    - Allow myself time to review and critique my work as well as share with others and be open to their input.
 
 ## Site Contents 
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
@@ -21,4 +21,5 @@ Three reminders to myself that keep me in a growth mindset:
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
 * [Wireframe and HTML](https://dustinhall.github.io/reading-notes/wireframe-html)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
-* [JavaScript](https://dustinhall.github.io/reading-notes/javascript) 
+* [JavaScript](https://dustinhall.github.io/reading-notes/javascript)
+* [Programming JS](https://dustinhall.github.io/reading-notes/preogramming-with-javascript) 
