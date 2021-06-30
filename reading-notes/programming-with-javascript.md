@@ -67,15 +67,6 @@ function myFunction() {
 
 Since local variables can only be used within their function variables with the same name can be used in different functions.
 
-## JavaScript Operators
-
-An operator performs some operation on single, or multiple, operands (data value) and produces a result. There are Binary and Unary operators as well as one special ternary operator. 
-
-**Binary**:Requires two operands one before and after the operator - operand1 operator operand2 - '3+4'.
-
-**Unary**:Requires a single operand either before or after the operator - operator operand (or) operand operator - 'x++' or '++x'.
-
-For a list of operators [js_operators](https://www.w3schools.com/js/js_operators.asp) or [another site](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
 ## Site Contents
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes) 
@@ -85,3 +76,4 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [Wireframe and HTML](https://dustinhall.github.io/reading-notes/wireframe-html)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
 * [JavaScript](https://dustinhall.github.io/reading-notes/javascript)
+* [Operators-Loops](https://dustinhall.github.io/reading-notes/operators-loops)

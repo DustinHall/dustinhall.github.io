@@ -95,6 +95,7 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [CSS](https://dustinhall.github.io/reading-notes/css)
 * [JavaScript](https://dustinhall.github.io/reading-notes/javascript)
 * [Programming JS](https://dustinhall.github.io/reading-notes/programming-with-javascript)
+* [Operators and Loops](http://dustinhall.github.io/reading-notes/operators-loops)
 
 <footer>
     <p> Page managed by Dustin Hall </p> 
