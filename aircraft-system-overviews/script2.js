@@ -8,4 +8,3 @@ button.onclick = function() {
   alert('Hello ' + name + ', nice to see you!');
   }
 }
-
