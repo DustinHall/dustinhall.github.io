@@ -23,12 +23,23 @@
     <li style="color:blue">Blue</li>
   </ul>
 
+  <p style="background-color: black; color: silver;"> What is your name?</p>
+  <p style="background-color: silver; color: red;"> Where are you from?</p>
+  <p style="background-color: forestgreen; color: purple"> Are you having a good day?</p>
+  <p style="background-color: blue; color:yellow"> Any plans this weekend?</p>
+
   <script>
     // greet the user
     let username = prompt("What is your name?");
     // Send variable value to the console so we can use it.
     console.log(username);
-    alert("Hello There!" + username);
+    alert("Hello There!" +  username);
+   
+    // what is there location?
+    let location = promt("Where are you from?");
+    console.log(location);
+    alert(location + "Awesome" + username + "I am currently in Georgia but will be in Washington soon!")
+
   </script>
 
 </body>
