@@ -1,3 +1,11 @@
+# Code 201 Reading Notes
+
+This website is about what I am learning on the way to becoming a software developer. 
+
+## 201 Contents
+
+# Code 102 Reading Notes
+
 ## About Me 
 
 I am an ambitious person trying to learn as much as I can about coding to prepare myself for a career in the field. I have spent the last 15 years working in aviation, starting out as an Aviation Electrician on an anti drug detachment in the Navy, currently work as the Master Technical Training Instructor for avionics training at a private aircraft manufacturer in Georgia. Please feel free to take a look at [my projects](https://github.com/DustinHall?tab=projects).
@@ -15,7 +23,7 @@ Three reminders to myself that keep me in a growth mindset:
  3. Accept Criticism 
     - Allow myself time to review and critique my work as well as share with others and be open to their input.
 
-## Site Contents 
+##  102 Contents 
 * [Markdown Basics](https://dustinhall.github.io/reading-notes/markdown)
 * [Text Editors, IDEs and Terminals](https://dustinhall.github.io/reading-notes/text-editor)
 * [Git Intro](https://dustinhall.github.io/reading-notes/git-intro)
