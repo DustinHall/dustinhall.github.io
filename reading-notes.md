@@ -3,6 +3,7 @@
 This website is about what I am learning on the way to becoming a software developer. 
 
 ## 201 Contents
+* [class-01](https://dustinhall.github.io/reading-notes/class-01)
 
 # Code 102 Reading Notes
 
