@@ -31,13 +31,24 @@
   <script>
     // greet the user
     let username = prompt("What is your name?");
-    // Send variable value to the console so we can use it.
     console.log(username);
     alert("Hello There! " + username);
-    // what is there location?
+   
+    // what is their location?
     let Geolocation = prompt("Where are you from?");
     console.log(Geolocation);
-    alert(Geolocation + " cool! " + username + " ,I am currently in Georgia but will be in Washington soon!");
+    alert(Geolocation + " cool! " + username + ", I am currently in Georgia but will be in Washington soon!");
+
+    //how is their day
+    let moodName = prompt("Are you having a good day?");
+    console.log(moodName);
+    alert(moodName + " huh?" + "well " + username + "in " + Geolocation + " you should be having a good day.");
+
+    //plans
+    let planResponse = prompt(Do you have and plans this weekend?);
+    console.log(planResponse);
+    alert("Really, " + username + ", if I lived in" + Geolocation + " I would probably go out every weekend.");
+
 
   </script>
 
