@@ -4,6 +4,7 @@ This website is about what I am learning on the way to becoming a software devel
 
 ## 201 Contents
 * [class-01](https://dustinhall.github.io/reading-notes/class-01)
+* [class-02](http://dustinhall.github.io/reading-notes/class-02)
 
 # Code 102 Reading Notes
 
