@@ -63,5 +63,6 @@ This will have to be completed after class today. I apologize for being a little
 **JS Chapter 1: "The ABC of Programming" (pp.11-52)**
 
 ## 201 Contents
+Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [class-02](https://dustinhall.github.io/reading-notes/class-02)
 
