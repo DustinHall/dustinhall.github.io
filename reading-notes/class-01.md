@@ -65,4 +65,5 @@ This will have to be completed after class today. I apologize for being a little
 ## 201 Contents
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [class-02](https://dustinhall.github.io/reading-notes/class-02)
+* [class-03](http://dustinhall.github.io/reading-notes/class-03)
 
