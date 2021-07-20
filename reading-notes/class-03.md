@@ -48,7 +48,8 @@ Loops - Check a condition, if the condition returns true code will run then get 
 
 
 
-## 201 Contents
+### **201 Contents**
 Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [class-01](https://dustinhall.github.io/reading-notes/class-01)
 * [class-02](http://dustinhall.github.io/reading-notes/class-02)
+* [class-04](http://dustinhall.github.io/reading-notes/class-04)
