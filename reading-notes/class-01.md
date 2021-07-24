@@ -67,4 +67,5 @@ Return [**_HOME_**](https://DustinHall.github.io/reading-notes)
 * [class-02](https://dustinhall.github.io/reading-notes/class-02)
 * [class-03](http://dustinhall.github.io/reading-notes/class-03)
 * [class-04](http://dustinhall.github.io/reading-notes/class-04)
+* [class-05](http://dustinhall.github.io/reading-notes/class-05)
 
