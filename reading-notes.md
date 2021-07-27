@@ -8,6 +8,7 @@ This website is about what I am learning on the way to becoming a software devel
 * [class-03](http://dustinhall.github.io/reading-notes/class-03)
 * [class-04](http://dustinhall.github.io/reading-notes/class-04)
 * [class-05](http://dustinhall.github.io/reading-notes/class-05)
+* [class-06](http://dustinhall.github.io/reading-notes/class-06)
 
 # Code 102 Reading Notes
 
